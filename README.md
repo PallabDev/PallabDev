@@ -42,7 +42,6 @@ I am targeting opportunities with recruiters, clients, internship programs, free
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Drizzle-0F172A?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
 </p>
-![](https://komarev.com/ghpvc/?username=PallabDev&color=blue)
 
 ## Featured Projects
 
